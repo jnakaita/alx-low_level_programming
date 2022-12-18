@@ -1,0 +1,10 @@
+# 942 "/usr/include/stdio.h" 3 4
+
+
+# 2 "main.cc" 2
+
+# 3 "main.c"
+int main (viod)
+{	
+	return (0);
+}
